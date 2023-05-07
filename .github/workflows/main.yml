@@ -5,7 +5,7 @@ name: 每日新闻定时推送
 
 on:
   schedule: # 每日定时推送新闻
-    - cron: "0 0/2 * * * ?" # 分 时 日 月 星期
+    - cron: "13 23 * * *" # 分 时 日 月 星期
 
 jobs:
   GLaDOS-CheckIn:
