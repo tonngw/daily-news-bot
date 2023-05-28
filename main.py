@@ -12,11 +12,12 @@ def main():
         return 'PushPlus: 未配置token，无法进行消息推送。'
     url = 'http://www.pushplus.plus/send/'
     headers = {'Content-Type':'application/json'}
-
+	
+	# api_list: [https://api.03c3.cn/zb, https://api.vvhan.com/api/60s, https://api.emoao.com/api/60s]
     data = {
         "token": token,
         "title": "每日新闻推送 bot",
-        "content": "<img src='https://api.03c3.cn/zb' />",
+        "content": "<img src='https://api.vvhan.com/api/60s' />",
         "template": "html",
         "channel": "wechat"
     }
