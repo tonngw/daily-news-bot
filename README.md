@@ -1,8 +1,8 @@
-#### Introduction
+### Introduction
 
 This is a daily news bot use **github action** and **pushplus**.
 
-#### Configuration
+### Configuration
 
 If you want to use it, here are the steps:
 
@@ -19,12 +19,12 @@ on:
     - cron: "5 20 * * *" # 分 时 日 月 星期, eg: 20:05pm
 ```
 
-#### Others
+### Others
 
 If you have any questions, please contact me in wx: `allinjava` and note 「github」.
 
 Finally, if the project is helpful to you, please give the project a **star** ⭐, let more people see it, thanks~
 
-#### Smaple
+### Smaple
 
 <img src="images/sample.jpg" alt="sample" style="zoom:50%;" />
