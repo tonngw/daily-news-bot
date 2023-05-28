@@ -27,4 +27,4 @@ Finally, if the project is helpful to you, please give the project a **star** тн
 
 ### Smaple
 
-<img src="images/sample.jpg" alt="sample" style="zoom:50%;" />
+<img src="images/sample.jpg" alt="sample" style="zoom: 25%;" />
