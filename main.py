@@ -17,7 +17,7 @@ def main():
     data = {
         "token": token,
         "title": "每日新闻推送 bot",
-        "content": "<img src='https://api.vvhan.com/api/60s' />",
+        "content": "<img src='https://api.03c3.cn/zb' /><img src='https://api.emoao.com/api/60s' />",
         "template": "html",
         "channel": "wechat"
     }
